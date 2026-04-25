@@ -21,7 +21,7 @@ Currently building **Wealthtron** — a finance SaaS platform — at NewVariable
 **Backend** — Node.js, REST APIs, Microservices, Flask  
 **AI / LLM** — LangChain, Mastra, Prompt Engineering, Agentic Workflows  
 **Cloud** — AWS S3, Lambda, SQS, Serverless, Docker  
-**Database** — MySQL  
+**Database** — PostgresSQL  
 **Auth & Payments** — BetterAuth, Stripe  
 
 ---
